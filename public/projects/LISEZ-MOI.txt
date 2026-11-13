@@ -1,0 +1,3 @@
+Place ici les images (ou vidéos) de tes projets.
+Format conseillé : 16:10 (ex. 1600x1000), en .jpg ou .webp.
+Puis adapte les noms de fichiers dans src/data/projects.ts.
